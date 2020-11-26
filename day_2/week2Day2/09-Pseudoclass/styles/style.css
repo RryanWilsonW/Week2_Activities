@@ -1,0 +1,29 @@
+* {
+    font-size: 40px;
+}
+
+.link1:hover {
+    color: aqua;
+}
+
+.link2:active {
+    font-size: 400px;
+}
+
+.link3:visited {
+    color: greenyellow;
+}
+
+.link4:link {
+    padding: 50px;
+}
+
+.link4:hover {
+    padding: 0;
+    color: magenta;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.link5:hover {
+    background-color: greenyellow;
+}

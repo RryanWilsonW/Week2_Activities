@@ -1,0 +1,28 @@
+
+@media (max-width: 800px) {
+    p {
+        background-color: aqua;
+        color: orange;
+    }
+
+    h1 {
+        border: solid black;
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 320px) {
+    p {
+        background-color: red;
+        color: green;
+    }
+
+    h1 {
+        border: dotted purple;
+        float: left;
+    }
+}
+
+
+
